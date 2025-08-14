@@ -72,7 +72,7 @@
     "has-unicode": "^2.0.1",
     "import-local": "^3.0.2",
     "init-package-json": "^3.0.2",
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.7",
     "is-ci": "^2.0.0",
     "libnpmaccess": "^6.0.3",
     "libnpmpublish": "^6.0.4",
